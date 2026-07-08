@@ -98,8 +98,11 @@ B.Sc. Major in Statistics | Aspiring Data Scientist | Machine Learning Enthusias
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Debapriyo1110&show_icons=true&theme=github_dark&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debapriyo1110&layout=compact&theme=github_dark&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Debapriyo1110&show_icons=true&theme=radical&cache_seconds=86400"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debapriyo1110&layout=compact&theme=radical&cache_seconds=86400"/>
 </p>
 
 ---
