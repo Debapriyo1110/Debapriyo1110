@@ -98,8 +98,8 @@ B.Sc. Major in Statistics | Aspiring Data Scientist | Machine Learning Enthusias
 ## 📊 GitHub Statistics
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Debapriyo1110&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debapriyo1110&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Debapriyo1110&show_icons=true&theme=github_dark&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debapriyo1110&layout=compact&theme=github_dark&hide_border=true" height="180"/>
 </p>
 
 ---
@@ -107,15 +107,7 @@ B.Sc. Major in Statistics | Aspiring Data Scientist | Machine Learning Enthusias
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Debapriyo1110&theme=tokyonight"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Debapriyo1110&theme=onedark&margin-w=15"/>
+  <img src="https://streak-stats.demolab.com?user=Debapriyo1110&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
