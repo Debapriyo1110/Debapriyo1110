@@ -73,39 +73,12 @@ B.Sc. Major in Statistics | Aspiring Data Scientist | Machine Learning Enthusias
 
 ---
 
-## 📌 Featured Projects
-
-### 📈 Time-Series Analysis of COVID-19 Data
-
-- Performed exploratory data analysis on the WHO COVID-19 Global Daily Dataset.
-- Implemented ARIMA, SARIMA, and Holt-Winters forecasting models.
-- Compared models using AIC and BIC and performed residual diagnostics.
-
-### 🤖 Clustering Analysis on MNIST Dataset
-
-- Implemented K-Means and Hierarchical Clustering.
-- Applied PCA for dimensionality reduction and visualization.
-- Evaluated clustering performance using Macro F1 Score.
-
-### 🔬 Cauchy Distribution Scale Estimation
-
-- Developed and compared robust scale estimators for the Cauchy distribution.
-- Conducted simulation studies using R.
-- Analysed estimator performance through Bias and MSE.
-
----
-
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Debapriyo1110&show_icons=true&theme=radical&cache_seconds=86400"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Debapriyo1110&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Debapriyo1110&layout=compact&theme=tokyonight"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debapriyo1110&layout=compact&theme=radical&cache_seconds=86400"/>
-</p>
-
----
 
 ## 🔥 GitHub Streak
 
