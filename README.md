@@ -99,4 +99,3 @@ B.Sc. Major in Statistics | Aspiring Data Scientist | Machine Learning Enthusias
 <h3 align="center">
 ✨ “Data is the language of the future, and Statistics is its grammar.” ✨
 </h3>
-```
