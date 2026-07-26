@@ -257,6 +257,7 @@ I am interested in research at the intersection of Statistics, Data Science and 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Debapriyo1110&theme=github-dark&hide_border=true"/>
 </p>
+
 ---
 
 # 📊 GitHub Activity Graph
@@ -269,15 +270,6 @@ I am interested in research at the intersection of Statistics, Data Science and 
 
 ---
 
-# 🐍 Contribution Graph
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Debapriyo1110/Debapriyo1110/output/github-contribution-grid-snake.svg"/>
-
-</p>
-
----
 
 # 🌟 Highlights
 
