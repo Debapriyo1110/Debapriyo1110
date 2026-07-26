@@ -245,16 +245,18 @@ I am interested in research at the intersection of Statistics, Data Science and 
 
 ---
 
-# 📈 GitHub Statistics
+# 📊 GitHub Statistics
 
 <p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Debapriyo1110&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debapriyo1110&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Debapriyo1110&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Debapriyo1110&layout=compact&theme=tokyonight"/>
 </p>
 
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Debapriyo1110&theme=github-dark&hide_border=true"/>
+</p>
 ---
 
 # 📊 GitHub Activity Graph
