@@ -48,7 +48,7 @@ Indian Statistical Institute (ISI), Kolkata
 
 ### 🔹 Ex Research Intern
 
-**Applied Statistics & Econometrics Research Unit (AERU)**
+**Agricultural and Ecological Research Unit (AERU)**
 
 Indian Statistical Institute (ISI), Kolkata
 
@@ -186,7 +186,7 @@ I am particularly interested in applying statistical thinking and machine learni
 ### 🎓 Academic & Professional Experience
 
 - 🎓 Bachelor of Science (Major in Statistics)
-- 🔬 Ex Research Intern, Applied Statistics & Econometrics Research Unit (AERU), Indian Statistical Institute (ISI), Kolkata
+- 🔬 Ex Research Intern, Agricultural & Ecological Research Unit (AERU), Indian Statistical Institute (ISI), Kolkata
 - 💼 Ex Summer Intern, IDEAS Technology Innovation Hub (TIH), Indian Statistical Institute (ISI), Kolkata
 - 📚 Experience in statistical modelling, simulation studies, and data-driven research
 - 📊 Hands-on experience in data analysis, forecasting, and machine learning workflows
