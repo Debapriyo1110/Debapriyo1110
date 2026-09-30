@@ -340,8 +340,6 @@ Apart from programming and statistical analysis, I enjoy:
 
 ---
 
-# 💬 Favourite Quote
-
 <div align="center">
 
 > **"Statistics is the grammar of science, and data is the language through which the world tells its story."**
